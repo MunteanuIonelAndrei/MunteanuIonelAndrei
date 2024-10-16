@@ -16,6 +16,7 @@ Some of the repositories here are a result of my studies and work at the univers
 - [Intelligent Drone - Bachelor Project](https://github.com/MunteanuIonelAndrei/Drona-Inteligenta---Licenta)
 - [🛸🛸🛸 Also, here is the video with the drone 🛸🛸🛸](https://youtu.be/unsr3D-OWNQ)
 - [MIPS Pipeline - Processor](https://github.com/MunteanuIonelAndrei/Arhitectura-Calculatoarelor)
+- [Distributed Systems]( https://github.com/MunteanuIonelAndrei/Distributed-System)
 - [Web Store- BeeKeeping ](https://github.com/MunteanuIonelAndrei/WebStore-Apicola---Proiectarea-Sistemelor)
 - [Tank Scene](https://github.com/MunteanuIonelAndrei/Scena-Tank---Prelucrare-Grafica)
 - [Work with files and folders](https://github.com/MunteanuIonelAndrei/Lucru-cu-fisiere---Sisteme-de-Operare-)
